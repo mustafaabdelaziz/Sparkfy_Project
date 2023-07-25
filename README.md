@@ -13,10 +13,7 @@ In this project we suppose that we have an app called Sparkify which is a music 
 2. Giving them free subscriptions.
 
 ## File Descriptions:
-This project contains only one jupyter notebook that contains all the code which is trying to answer the questions asked in this project, and it also has the 2022 survey dataset downloaded from Stackoverflow website exported in a csv file and schema file that contains all the columns descriptions and a pdf file that contains the survey with the choices.
+This project contains only one jupyter notebook that contains all the code which is used to predict customer churn, and it also has a subset of a greater dataset called sparkify_events_data and that subset of the data is called mini_sparkify_events_data and it's saved into json file format.
 
 ## Results:
-You can find the results in this post on medium website.https://medium.com/@mustafa.mahmoud_10510/starting-your-data-career-can-be-difficult-4a6ee68232cd
-
-## Licensing, Authors, Acknowledgements:
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available. Otherwise, feel free to use the code here as you would like!
+You can find the results in this post on medium website: https://medium.com/p/88a478713ed6/edit

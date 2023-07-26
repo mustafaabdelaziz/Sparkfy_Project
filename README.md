@@ -16,4 +16,4 @@ In this project we suppose that we have an app called Sparkify which is a music 
 This project contains only one jupyter notebook that contains all the code which is used to predict customer churn, and it also has a subset of a greater dataset called sparkify_events_data and that subset of the data is called mini_sparkify_events_data and it's saved into json file format.
 
 ## Results:
-You can find the results in this post on medium website: https://medium.com/p/88a478713ed6/edit
+You can find the results in this post on medium website: https://medium.com/@mustafa.mahmoud_10510/saprkify-customer-churn-prediction-88a478713ed6

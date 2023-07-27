@@ -17,3 +17,6 @@ This project contains only one jupyter notebook that contains all the code which
 
 ## Results:
 You can find the results in this post on medium website: https://medium.com/@mustafa.mahmoud_10510/saprkify-customer-churn-prediction-88a478713ed6
+
+### Licensing, Authors, Acknowledgements:
+Must give credit to Udacity for the data. You can find the Licensing for the data and other descriptive information at the link available. Otherwise, feel free to use the code here as you would like!
